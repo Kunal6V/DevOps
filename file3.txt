@@ -1,1 +1,1 @@
-file 3 has differnet content.
+It is from remote repo.
